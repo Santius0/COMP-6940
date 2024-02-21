@@ -7,9 +7,9 @@
 
 ## 📑 Assignment #1 Submissions
 
-Submit your assignments here: **[Submission Portal](https://script.google.com/macros/s/AKfycbwqxNL3DDfRE9unCfN1Aw3lOz0xr4ydXUWTobOci0zxORgFN2K_d0yKFGr9V4mwJ2z2Lg/exec)**
-    - Due Date: Friday, Febrary 23rd 2024, 11:59PM
-    - Late submissions accepted up to Tuesday, February 27th 2024, 11:59PM. 5% penalty applied for each day late, up to a maximum of 20%.
+- Submit your assignments here: **[Submission Portal](https://script.google.com/macros/s/AKfycbwqxNL3DDfRE9unCfN1Aw3lOz0xr4ydXUWTobOci0zxORgFN2K_d0yKFGr9V4mwJ2z2Lg/exec)**
+- Due Date: Friday, Febrary 23rd 2024, 11:59PM
+- Late submissions accepted up to Tuesday, February 27th 2024, 11:59PM. 5% penalty applied for each day late, up to a maximum of 20%.
 ---
 
 ### 🛠️ Resources
