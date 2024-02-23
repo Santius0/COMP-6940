@@ -9,6 +9,24 @@
 - **Due Date**: Friday, February 23rd, 2024, 11:59 PM
 - **Late Submissions**: Accepted until Tuesday, February 27th, 2024, 11:59 PM (5% daily penalty, max 20%)
 
+## Trusting the Unverified App
+
+When using the submission portal for the first time, you may encounter a warning due to the app's unverified status. Here's how to safely proceed:
+
+1. **Warning Screen**: You'll be greeted with a warning screen. Don't worry; this is standard for unverified apps.
+
+   ![Warning Screen](https://imgur.com/UauhlZ4)
+
+2. **Advanced Options**: Click on **Advanced** to see more options.
+
+3. **Proceed to COMP-6940 Portal (Unsafe)**: Select "Go to COMP-6940: Assignment #1 Submission Portal (unsafe)" to continue.
+
+   ![Proceed to App](https://imgur.com/y5zSJrp)
+
+4. **Grant Permissions**: Review the requested permissions and click **Allow** to proceed.
+
+Now, you're ready to use the submission portal!
+
 ## 🛠️ Resources
 
 - [D3.js Documentation](https://d3js.org/)
