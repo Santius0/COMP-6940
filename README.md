@@ -19,7 +19,7 @@ When using the submission portal for the first time, you may encounter a warning
 
 2. **Advanced Options**: Click **Advanced** to proceed.
    
-   After clicking **Advanced**, select "COMP 3610: Assignment #1 Submission Portal (unsafe)" to continue.
+   After clicking **Advanced**, select "COMP 6940: Assignment #1 Submission Portal (unsafe)" to continue.
    
    ![Proceed to App](https://i.imgur.com/y5zSJrp.png)
 
