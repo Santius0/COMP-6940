@@ -13,15 +13,15 @@
 
 When using the submission portal for the first time, you may encounter a warning due to the app's unverified status. Here's how to safely proceed:
 
-1. **Warning Screen**: You'll be greeted with a warning screen. Don't worry; this is standard for unverified apps.
+1. **Warning Screen**: Encounter a warning upon authorization attempt.
+   
+   ![Warning Screen](https://i.imgur.com/UauhlZ4.png)
 
-   [Warning Screen](https://imgur.com/UauhlZ4)
-
-2. **Advanced Options**: Click on **Advanced** to see more options.
-
-3. **Proceed to COMP-6940 Portal (Unsafe)**: Select "Go to COMP-6940: Assignment #1 Submission Portal (unsafe)" to continue.
-
-   [Proceed to App](https://imgur.com/y5zSJrp)
+2. **Advanced Options**: Click **Advanced** to proceed.
+   
+   After clicking **Advanced**, select "COMP 3610: Assignment #1 Submission Portal (unsafe)" to continue.
+   
+   ![Proceed to App](https://i.imgur.com/y5zSJrp.png)
 
 4. **Grant Permissions**: Review the requested permissions and click **Allow** to proceed.
 
