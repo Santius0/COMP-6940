@@ -15,13 +15,13 @@ When using the submission portal for the first time, you may encounter a warning
 
 1. **Warning Screen**: You'll be greeted with a warning screen. Don't worry; this is standard for unverified apps.
 
-   ![Warning Screen](https://imgur.com/UauhlZ4)
+   [Warning Screen](https://imgur.com/UauhlZ4)
 
 2. **Advanced Options**: Click on **Advanced** to see more options.
 
 3. **Proceed to COMP-6940 Portal (Unsafe)**: Select "Go to COMP-6940: Assignment #1 Submission Portal (unsafe)" to continue.
 
-   ![Proceed to App](https://imgur.com/y5zSJrp)
+   [Proceed to App](https://imgur.com/y5zSJrp)
 
 4. **Grant Permissions**: Review the requested permissions and click **Allow** to proceed.
 
