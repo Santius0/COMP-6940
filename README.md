@@ -10,7 +10,7 @@
 
 ## 📑 Assignment #2 Submissions
 
-- **Submit here**: [Submission Portal](https://script.google.com/macros/s/AKfycbx4OX8qbTp2D-dkjxGpjV3j8pW1Hewar06tNpSSNbtI7KuurUx_gBlFq2FtgBKLXtKY/exec)
+- **Submit here**: [Submission Portal](https://forms.gle/SjRart9XbPXsJKHT9)
 - **Due Date**: Friday, March 15th, 2024, 11:59 PM
 - **Late Submissions**: Accepted until Tuesday, March 19th, 2024, 11:59 PM (5% daily penalty, max 20%)
 
