@@ -17,9 +17,9 @@
 ## 📑 Project Proposal Submissions
 
 - **Submit here**: [Submission Link](https://drive.google.com/drive/folders/1yyqufTOyCnb2AuIW03XcOBuH6vPdEAah?usp=sharing)
-- **Due Date**: Monday, March 24th, 2024, 11:59 PM
-- **Late Submissions**: Accepted until Tuesday, March 19th, 2024, 11:59 PM (5% daily penalty, max 20%)
-
+- **Presentation Due Date**: Wednesday, March 20th, 2024 (In Class)
+- **One Page Proposal Document Due Date**: Monday, March 25th, 2024, 11:59 PM 
+  
 ## Trusting the Unverified App
 
 When using the submission portal for the first time, you may encounter a warning due to the app's unverified status. Here's how to safely proceed:
