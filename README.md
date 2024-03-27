@@ -10,9 +10,15 @@
 
 ## 📑 Assignment #2 Submissions
 
-- **Submit here**: [Submission Portal](https://forms.gle/SjRart9XbPXsJKHT9)
 - **Due Date**: Friday, March 15th, 2024, 11:59 PM
 - **Late Submissions**: Accepted until Tuesday, March 19th, 2024, 11:59 PM (5% daily penalty, max 20%)
+
+## 📑 Assignment #3 Submissions
+
+- **Submit here**: [Submission Portal](https://forms.gle/JS9hsDUMDQ11GFeu9)
+- **Due Date**: Friday, April 05th, 2024, 11:59 PM
+- **Late Submissions**: Accepted until Tuesday, April 09th, 2024, 11:59 PM (5% daily penalty, max 20%)
+
 
 ## 📑 Project Proposal Submissions
 
