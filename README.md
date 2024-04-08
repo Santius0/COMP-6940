@@ -23,9 +23,11 @@
 ## 📑 Project Progress Report Submissions
 - **Submit here**: [Submission Folder](https://drive.google.com/drive/folders/1ajBrEE-e6YlqBUENoG1cpH9d2ICWegXE?usp=sharing)
 - **Due Date**: Wednesday, April 03rd, 2024 - **Extended to Saturday, April 06th, 2024**
-  
-## 🛠️ Resources
 
+ ## 📑 Grades 
+ - [All Grades](https://drive.google.com/drive/folders/1FeyPfu_YzW4_hIrsdWFmJuvJo0DADu9c?usp=sharing)
+
+## 🛠️ Resources
 - [D3.js Documentation](https://d3js.org/)
 - [Markdown Guide](https://www.markdownguide.org/)
 - [GitHub Flavored Markdown](https://github.github.com/gfm/)
