@@ -24,7 +24,7 @@
 - **Submit here**: [Submission Folder](https://drive.google.com/drive/folders/1ajBrEE-e6YlqBUENoG1cpH9d2ICWegXE?usp=sharing)
 - **Due Date**: Wednesday, April 03rd, 2024 - **Extended to Saturday, April 06th, 2024**
 
- ## 📑 Grades 
+ ## :100: Grades 
  - [All Grades](https://drive.google.com/drive/folders/1FeyPfu_YzW4_hIrsdWFmJuvJo0DADu9c?usp=sharing)
 
 ## 🛠️ Resources
@@ -33,7 +33,6 @@
 - [GitHub Flavored Markdown](https://github.github.com/gfm/)
 
 ## 📖 Course Materials
-
 - [Course Slides (Dropbox)](https://www.dropbox.com/scl/fo/emkt3amnm5c923ht29fc1/h?rlkey=tsn23hy22kb52ohpmr49u0vsv&dl=0)
 - [Assignments & Labs (GitHub)](https://github.com/Santius0/COMP-6940)
 
