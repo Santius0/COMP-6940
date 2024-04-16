@@ -16,12 +16,16 @@
 - **Due Date**: Friday, April 05th, 2024, 11:59 PM - **Extended to Monday April 08th, 11:59 PM**
 - **Late Submissions**: Accepted until Wednesday, April 10th, 2024, 11:59 PM (5% daily penalty, max 10%)
 
+## 📑 Assignment #4 Submissions
+- **Submit here**: [Submission Portal](https://forms.gle/v9zWs4Z2ZtrY3Yim8)
+- **Due Date**: Friday, April 19th, 2024, 11:59 PM
+- **Late Submissions**: Accepted until Tuesday, April 23rd, 2024, 11:59 PM (5% daily penalty, max 20%)
+
 ## 📑 Project Proposal Submissions
 - **Presentation Due Date**: Wednesday, March 20th, 2024 (In Class)
 - **One Page Proposal Document Due Date**: Monday, March 25th, 2024, 11:59 PM
 
 ## 📑 Project Progress Report Submissions
-- **Submit here**: [Submission Folder](https://drive.google.com/drive/folders/1ajBrEE-e6YlqBUENoG1cpH9d2ICWegXE?usp=sharing)
 - **Due Date**: Wednesday, April 03rd, 2024 - **Extended to Saturday, April 06th, 2024**
 
  ## :100: Grades 
