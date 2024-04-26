@@ -16,7 +16,6 @@
 - **Late Submissions**: Accepted until Wednesday, April 10th, 2024, 11:59 PM (5% daily penalty, max 10%)
 
 ## 📑 Assignment #4 Submissions
-- **Submit here**: [Submission Portal](https://forms.gle/v9zWs4Z2ZtrY3Yim8)
 - **Due Date**: Friday, April 19th, 2024, 11:59 PM
 - **Late Submissions**: Accepted until Tuesday, April 23rd, 2024, 11:59 PM (5% daily penalty, max 20%)
 
